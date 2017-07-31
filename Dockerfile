@@ -1,4 +1,4 @@
-FROM arm64v8/debian:jessie
+FROM arm32v7/debian:jessie
 
 MAINTAINER Christian Luginbühl <dinkel@pimprecords.com>
 
